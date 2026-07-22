@@ -1,0 +1,9 @@
+For API Running Use the given Cmds.
+
+PS C:\Dev\TicketClassifierProject> cd .\ticket-classifier-api\
+PS C:\Dev\TicketClassifierProject\ticket-classifier-api> venv\Scripts\activate
+(venv) PS C:\Dev\TicketClassifierProject\ticket-classifier-api> uvicorn main:app --reload --port 8000
+_____________________________________________________________________________
+For Frontend 
+Use 
+npm run dev
